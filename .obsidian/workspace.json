@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "8c3347219b582020",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f96dc0969351767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa5c12cef1f843c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/writing draft/2026-01-26-X-Response-Amodei-ChemicalWeapons.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-26-X-Response-Amodei-ChemicalWeapons"
+            }
+          },
+          {
+            "id": "ed9a3b28967f9448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Archive/爆款结构1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "爆款结构1.0"
+            }
+          },
+          {
+            "id": "c5f47c3bcbc66e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "63c5e17429628fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/xhs_skill/XHS_writer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XHS_writer"
+            }
+          },
+          {
+            "id": "c8702e8de05ef660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/writing draft/2026-01-28-XHS-Sales-Team-Death.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-28-XHS-Sales-Team-Death"
+            }
+          },
+          {
+            "id": "79e09a7c24fa0bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/xhs_skill/02_核心配方生成/爆款结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "爆款结构"
+            }
+          },
+          {
+            "id": "805883da528ee53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/writing draft/销售团队的\"压缩定律\"：1.2人+20Agents的真相.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "销售团队的\"压缩定律\"：1.2人+20Agents的真相"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "669048c4eec074b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ef94e194e84dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca5e2fa036176ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "58d04e34745e2777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "71f20d2cb3cbb2c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "4aef62a51394b215",
+    "type": "split",
+    "children": [
+      {
+        "id": "7207d4f8a3cae287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318696712d3165fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5af50666283e99cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "35f48ab74841bb7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2ab7dbeabf9685e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1fb89e566f43e7a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "3fc512be91057163",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/felixk/Documents/code_project/my-brain",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：zsh"
+            }
+          },
+          {
+            "id": "9bab0657e4676539",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "terminal:Open terminal": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "805883da528ee53c",
+  "lastOpenFiles": [
+    "01_Projects/xhs_skill/02_核心配方生成/爆款结构.md",
+    "00_Inbox/writing draft/2026-01-28-XHS-Sales-Team-Death.md",
+    "00_Inbox/writing draft/销售团队的\"压缩定律\"：1.2人+20Agents的真相.md",
+    "01_Projects/blog_sample/The Death of the Sales Team and the Rise of the AI Business Architect.md",
+    "00_Inbox/writing draft/2026-01-26-X-Response-Amodei-ChemicalWeapons.md",
+    "01_Projects/blog_skill/blog-writer/SKILL.md",
+    "01_Projects/blog_sample",
+    "01_Projects/blog_skill/01_爆款公式/Blog_Formulas.md",
+    "01_Projects/blog_skill/移动完成总结.md",
+    "01_Projects/blog_skill/blog-writer/框架说明.md",
+    "01_Projects/blog_skill/文件夹移动完成报告.md",
+    "01_Projects/blog_skill/03_素材库",
+    "01_Projects/blog_skill/02_核心配方生成",
+    "01_Projects/blog_skill/00_原始素材库",
+    "01_Projects/blog_skill/blog-writer/README.md",
+    "01_Projects/blog_skill/blog-writer/samples/README.md",
+    "01_Projects/blog_skill/blog-writer/samples/mini-games-ai-testing.md",
+    "01_Projects/xhs_skill/XHS_writer.md",
+    "01_Projects/blog_skill/blog-writer/samples",
+    "01_Projects/blog_skill/blog-writer/SKILL.md.backup",
+    "01_Projects/blog_skill/blog-writer",
+    "01_Projects/x_skill/X_writer.md",
+    "01_Projects/Felix_Personal_Branding_Overseas.md",
+    "01_Projects/README.md",
+    "01_Projects/个人品牌文档更新报告.md",
+    "01_Projects/xhs_skill/00_原始素材库/个人背景.md",
+    "00_Inbox/X_Samples/X.md",
+    "01_Projects/blog_skill/文件夹重构完成报告.md",
+    "00_Inbox/X_Samples/X_raw.md",
+    "00_Inbox/小红书_Samples/中国的跨境新品牌们，海外用户喜欢“有性格，不好惹”的.md",
+    "01_Projects/blog_skill/01_爆款公式/博客爆款公式分析.md",
+    "00_Inbox/blog_sample/博客爆款公式分析报告.md",
+    "00_Inbox/blog_sample/Work, Leisure, and the Paradox of Innovation.md",
+    "00_Inbox/blog_sample",
+    "01_Projects/x_skill/03_素材库",
+    "01_Projects/x_skill/02_核心配方生成",
+    "Pasted image 20260119161529.png"
+  ]
+}

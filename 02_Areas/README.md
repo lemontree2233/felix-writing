@@ -12,13 +12,6 @@ Areas are **ongoing responsibilities** that:
 
 ## What Belongs Here
 
-### Personal Areas
-- Health & Fitness
-- Finances
-- Relationships
-- Personal Development
-- Home & Environment
-
 ### Professional Areas
 - Team Management
 - Client Relationships
