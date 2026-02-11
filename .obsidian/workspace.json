@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "销售团队的\"压缩定律\"：1.2人+20Agents的真相"
             }
+          },
+          {
+            "id": "157fcac96a377258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/blog_sample/How to beat AI at its own game (the rise of the “Human Glitch” and the end of the perfect brand）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to beat AI at its own game (the rise of the “Human Glitch” and the end of the perfect brand）"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -314,44 +328,53 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "805883da528ee53c",
+  "active": "0ca5e2fa036176ca",
   "lastOpenFiles": [
+    "00_Inbox/blog_sample/How to Manage a Company When the CEO Disappears - Culture Does.md",
+    "00_Inbox/blog_sample/Mini Games- AI’s Testing Ground for Mass Game Production.md",
+    "00_Inbox/blog_sample/Selling AI in 2025 - What I’ve Gotten Wrong.md",
+    "00_Inbox/blog_sample/The Enterprise AI Sweet Spot - Unlocking 80% of Untapped Efficiency.md",
+    "00_Inbox/blog_sample/How to beat AI at its own game (the rise of the “Human Glitch” and the end of the perfect brand）.md",
+    "influencerwebsite/COST_ANALYSIS.md",
+    "influencerwebsite/vitest.config.ts",
+    "influencerwebsite/vite.config.ts",
+    "influencerwebsite/tsconfig.node.json",
+    "influencerwebsite/tsconfig.json",
+    "influencerwebsite/tsconfig.app.json",
+    "influencerwebsite/tailwind.config.ts",
+    "influencerwebsite/src/components/sku-analysis/tabs/UserBehaviorTab.tsx",
+    "influencerwebsite/src/components/sku-analysis/tabs/TimeTrendsTab.tsx",
+    "influencerwebsite/src/components/sku-analysis/tabs/ScanAnalysisTab.tsx",
+    "influencerwebsite/src/components/sku-analysis/tabs/GeographyTab.tsx",
+    "influencerwebsite/src/assets/zhixingqidian-logo.png",
+    "influencerwebsite/src/assets/sku-waterproof-mascara.jpg",
+    "influencerwebsite/src/assets/sku-pressed-powder.jpg",
+    "influencerwebsite/src/assets/sku-matte-lipstick.jpg",
+    "influencerwebsite/src/assets/sku-loose-powder.jpg",
+    "influencerwebsite/src/assets/sku-liquid-eyeliner.jpg",
+    "influencerwebsite/src/assets/sku-lip-oil.jpg",
+    "influencerwebsite/src/assets/sku-lip-balm-set.jpg",
+    "influencerwebsite/src/assets/sku-hyaluronic-lip-oil.jpg",
+    "influencerwebsite/src/assets/sku-highlighter.jpg",
+    "influencerwebsite/README.md",
     "01_Projects/xhs_skill/02_核心配方生成/爆款结构.md",
     "00_Inbox/writing draft/2026-01-28-XHS-Sales-Team-Death.md",
     "00_Inbox/writing draft/销售团队的\"压缩定律\"：1.2人+20Agents的真相.md",
     "01_Projects/blog_sample/The Death of the Sales Team and the Rise of the AI Business Architect.md",
     "00_Inbox/writing draft/2026-01-26-X-Response-Amodei-ChemicalWeapons.md",
     "01_Projects/blog_skill/blog-writer/SKILL.md",
-    "01_Projects/blog_sample",
     "01_Projects/blog_skill/01_爆款公式/Blog_Formulas.md",
     "01_Projects/blog_skill/移动完成总结.md",
     "01_Projects/blog_skill/blog-writer/框架说明.md",
     "01_Projects/blog_skill/文件夹移动完成报告.md",
-    "01_Projects/blog_skill/03_素材库",
-    "01_Projects/blog_skill/02_核心配方生成",
-    "01_Projects/blog_skill/00_原始素材库",
     "01_Projects/blog_skill/blog-writer/README.md",
     "01_Projects/blog_skill/blog-writer/samples/README.md",
     "01_Projects/blog_skill/blog-writer/samples/mini-games-ai-testing.md",
     "01_Projects/xhs_skill/XHS_writer.md",
-    "01_Projects/blog_skill/blog-writer/samples",
-    "01_Projects/blog_skill/blog-writer/SKILL.md.backup",
-    "01_Projects/blog_skill/blog-writer",
     "01_Projects/x_skill/X_writer.md",
     "01_Projects/Felix_Personal_Branding_Overseas.md",
     "01_Projects/README.md",
     "01_Projects/个人品牌文档更新报告.md",
-    "01_Projects/xhs_skill/00_原始素材库/个人背景.md",
-    "00_Inbox/X_Samples/X.md",
-    "01_Projects/blog_skill/文件夹重构完成报告.md",
-    "00_Inbox/X_Samples/X_raw.md",
-    "00_Inbox/小红书_Samples/中国的跨境新品牌们，海外用户喜欢“有性格，不好惹”的.md",
-    "01_Projects/blog_skill/01_爆款公式/博客爆款公式分析.md",
-    "00_Inbox/blog_sample/博客爆款公式分析报告.md",
-    "00_Inbox/blog_sample/Work, Leisure, and the Paradox of Innovation.md",
-    "00_Inbox/blog_sample",
-    "01_Projects/x_skill/03_素材库",
-    "01_Projects/x_skill/02_核心配方生成",
-    "Pasted image 20260119161529.png"
+    "01_Projects/xhs_skill/00_原始素材库/个人背景.md"
   ]
 }
